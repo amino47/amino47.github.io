@@ -2,7 +2,7 @@
 title = 'Yet Another USBA to USBC Adapter PCB'
 date = 2024-08-08T15:55:30-07:00
 draft = false
-type: "post"
+type = "post"
 +++
 
 ## Yet Another USB-C to USB-A Adapter PCB.
