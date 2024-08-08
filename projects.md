@@ -1,5 +1,3 @@
-# My Projects
-
 ## Hardware
 
 ### PCB USB-C to USB-A adapter PCB design
