@@ -11,6 +11,8 @@ enableRobotsTXT = true
 [params]
   # URL for the avatar on homepage
   avatarURL = "https://i.ibb.co/6FgTpFw/avatar.jpg"
+  
+  description = "Hello World! Welcome to my portfolio and blog."
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
   avatarSize = "size-m"
