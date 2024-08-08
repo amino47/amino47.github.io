@@ -47,4 +47,3 @@ enableRobotsTXT = true
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
   avatarSize = "size-m"
-
