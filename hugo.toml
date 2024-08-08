@@ -8,6 +8,13 @@ theme = "gokarna"
 # Automatically generate robots.txt
 enableRobotsTXT = true
 
+[params]
+  # URL for the avatar on homepage
+  avatarURL = "/assets/avatar.jpg"
+
+  # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
+  avatarSize = "size-m"
+
 [menu]
   [[menu.main]]
     # Unique identifier for a menu item
@@ -40,10 +47,3 @@ enableRobotsTXT = true
     
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"]
-
-[params]
-  # URL for the avatar on homepage
-  avatarURL = "/assets/avatar.jpg"
-
-  # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
-  avatarSize = "size-m"
