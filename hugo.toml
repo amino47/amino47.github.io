@@ -46,4 +46,4 @@ enableRobotsTXT = true
     weight = 3
     
     # We use feather-icons: https://feathericons.com/
-    pre = "<span data-feather='github'></span>"]
+    pre = "<span data-feather='github'></span>"
