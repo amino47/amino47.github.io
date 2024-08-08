@@ -8,4 +8,6 @@ type = "post"
 ## Yet Another USB-C to USB-A Adapter PCB.
 This was my first ever PCB I designed. It is a USB-C to USB-A adapter, as the name says. I submitted it to the OnBoard grant for teens, and was approved.
 
+## Images
+![The PCB Schematic](https://i.ibb.co/MNffvGN/pcbschematic.png)
 
